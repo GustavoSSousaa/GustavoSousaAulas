@@ -1,5 +1,8 @@
-# Gustavo Dos Santos De Sousa
-# 16 anos
-# gosto de dormir
-# gosto de jogar brawstars 
-# eu amo a aula de zumba ,mas amo mesmo a de programação de aplicativo
+x = 34 - 23 
+y = "hello"
+z = 3.45
+if z== 3.45 or y == "hello":
+    x = x + 1
+    y = y + " world" #concatenação de strigs
+print(x)
+print(y)
