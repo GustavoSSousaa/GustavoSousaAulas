@@ -3,7 +3,7 @@ vendas = 25000
 
 if vendas < meta:
     print ("Não ganhou bonus")
-elif vendas > (meta):
+elif vendas > (meta*2):
     bonus = 0.07 * vendas
     print ("Ganhou {} de bonus".format(bonus))
 else:

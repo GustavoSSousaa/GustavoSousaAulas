@@ -1,4 +1,4 @@
-#Exemplo
+#Exemplo IGUALDADE
 faturamento = 100
 custo = 200
 # IGUAL (==)

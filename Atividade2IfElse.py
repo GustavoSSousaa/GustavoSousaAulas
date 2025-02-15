@@ -8,4 +8,4 @@ else:
     if(n1 >= 5):
         print("Voce esta em RECUPERAÇÂO")
     else:
-        print("Voce esta REPROVADO (SEU BURRO)") 
+        print("Voce esta REPROVADO (SEU BURRO 🤦‍♂️)") 

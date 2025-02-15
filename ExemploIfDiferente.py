@@ -1,4 +1,4 @@
-#Exemplo
+#Exemplo DIFERENTE
 faturamento = 100
 custo = 200
 # IGUAL (!=)
