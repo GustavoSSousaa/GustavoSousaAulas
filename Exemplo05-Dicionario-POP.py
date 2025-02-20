@@ -1,13 +1,10 @@
-vendas_vendedores = {}
-vendas_vendedores ["Joao"] = 15000
-print(vendas_vendedores)
-print("")
-vendas_vendedores2 = {"Joao"}
+vendas_vendedores = {"javeiro":1}
+vendas_vendedores2 = {"Joao"} = 15000
+
+
 
 
 #Removendo o JOAO do dic
-vendas_vendedores = vendas_vendedores2.pop["Joao"]
-vendas_vendedores.update({"Lira":50, "Nathalie":100})
+vendas_vendedores = vendas_vendedores2.pop["javeiro"]
 print (vendas_vendedores)
-print ("Fim programa")
 print (vendas_vendedores2)
